@@ -1,6 +1,6 @@
 # easy_lifts2
 
-A new Flutter application.
+This is a project in development. It's a linear progression based workout app where you can keep track of 4 of the most essential compound exercises: Squat, Bench, Overhead Press and Deadlift. The app allows users to register with their google account, this is implemted using Firebase. Users will be able to see a history of their progression with each exericise.
 
 ## Getting Started
 
