@@ -7,6 +7,5 @@ This is a linear progression based workout app where you can keep track of 4 of 
 
 ![LoginScreen](https://user-images.githubusercontent.com/65413809/120350362-ec639c00-c2cc-11eb-81d2-9a5245f541b6.png)
 
-![InputPage](https://user-images.githubusercontent.com/65413809/120350380-f08fb980-c2cc-11eb-9818-c5d001ec63f4.png)
 
 
